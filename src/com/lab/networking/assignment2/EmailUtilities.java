@@ -26,8 +26,8 @@ import javax.mail.internet.MimeMultipart;
  * @author Raphson
  */
 public class EmailUtilities {
-    private static final String username = "zzzzzzzz@gmail.com";
-    private static final String password = "XXXXXVVVXXX";
+    private static final String username = "zzzzzzz@gmail.com";
+    private static final String password = "zzzzxxxxvvvv";
     
     public static void sendEmail(String fromAddress,String toAddress,String subject, String message)
             throws AddressException, MessagingException, IOException {
